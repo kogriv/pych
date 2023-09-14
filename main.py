@@ -1,4 +1,6 @@
 # This is a sample Python script.
+from module_1 import print_hey
+
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
@@ -14,5 +16,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('new commit')
     print('another changes')
+    print_hey('Unother<')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
